@@ -1,0 +1,8 @@
+sentence-transformers==5.2.3
+faiss-cpu==1.13.2
+ragas==0.4.3
+datasets==4.8.3
+openai==2.30.0
+numpy==2.0.2
+pandas==2.3.3
+tqdm==4.67.3
